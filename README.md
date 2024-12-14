@@ -1,9 +1,24 @@
-# React + Vite
+# Flight Radar App
+aircraft flight radar application
+users can see live flights on the map
+in the detail section of the airplanes, flight information, tail code of the airplane, from-where-where it flies, 
+displaying departure-arrival and destination-estimated time
+showing the route of the airplane
+listing section, flight information in tables and pagination
+based on the flightradar24.com website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Libraries
+- @reduxjs/toolkit
+- react-router-dom
+- react-leaflet
+- react-paginate
+- react-redux
+- bootstrap
+- leaflet
+- axios
 
-Currently, two official plugins are available:
+# API
+- https://rapidapi.com/apidojo/api/flight-radar1
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# flight-radar-app
+# Preview
+![radar](https://github.com/user-attachments/assets/1d937e8a-32a4-4ac4-a052-e638f7098441)
